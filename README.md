@@ -1,23 +1,22 @@
 # FlightTrackerLive
 Live ADS-B and Live ATC communications display application
 
-Abstract
+**Abstract**
  
-Objective
+**Objective**
  
-Design
+**Design**
 
 
 
 
 
 
-
-Conclusion
-
+**Conclusion**
 
 
-References
+
+**References**
 [1]
 [2]
 [3] 
