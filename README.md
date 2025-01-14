@@ -13,8 +13,8 @@ Later versions to include AR or 3D models of aircrafts, annual 'Wrapped' analysi
 **Release notes**
 
 V3.0:
-- Added i%3 (for color cycling)
-- Added dropdown menu for selecting callsigns (not working yet)
+- Added i%3 on lines 121, 130 (for color cycling)
+- Added dropdown menu on line 75 for selecting callsigns (not working yet)
  
 **Objective**
  
