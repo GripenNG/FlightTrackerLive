@@ -9,6 +9,12 @@ Furthermore, we intend to implement (close to) real-time ATC frequency monitorin
 Later versions to include AR or 3D models of aircrafts, annual 'Wrapped' analysis of user logged personal flight records, additional 'fancy' graphics of flight info, and flight alerts
 
 -starting Jan. 2025
+
+**Release notes**
+
+V3.0:
+- Added i%3 (for color cycling)
+- Added dropdown menu for selecting callsigns (not working yet)
  
 **Objective**
  
