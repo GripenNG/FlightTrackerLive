@@ -12,6 +12,11 @@ Later versions to include AR or 3D models of aircrafts, annual 'Wrapped' analysi
 
 **Release notes**
 
+V4.0:
+- Added every flights fetched by the API
+- Fixed dropdown menu
+- 3 -> 5 colors cycle
+
 V3.0:
 - Added i%3 on lines 121, 130 (for color cycling)
 - Added dropdown menu on line 75 for selecting callsigns (not working yet)
