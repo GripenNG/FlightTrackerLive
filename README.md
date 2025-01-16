@@ -12,6 +12,9 @@ Later versions to include AR or 3D models of aircrafts, annual 'Wrapped' analysi
 
 **Release notes**
 
+V5.0:
+- Fixed zoom status reset after flight path updates
+
 V4.0:
 - Added every flights fetched by the API
 - Fixed dropdown menu
